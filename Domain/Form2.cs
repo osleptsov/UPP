@@ -207,7 +207,7 @@ namespace Domain
 
         private void button3_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Вы держитесь здесь! Счастья вам, хорошего настроения и здоровья!", "Денег нет.");
+            MessageBox.Show("Вы держитесь здесь! Счастья вам, хорошего настроения и здоровья!", "Денег нет.", MessageBoxButtons.YesNoCancel);
         }
     }
 }
