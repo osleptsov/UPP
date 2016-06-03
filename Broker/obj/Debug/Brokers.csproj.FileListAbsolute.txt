@@ -1,0 +1,7 @@
+C:\Users\mello\Desktop\C#\Desktop\UPP\Broker\bin\Debug\Brokers.dll
+C:\Users\mello\Desktop\C#\Desktop\UPP\Broker\bin\Debug\Brokers.pdb
+C:\Users\mello\Desktop\C#\Desktop\UPP\Broker\bin\Debug\Persons.dll
+C:\Users\mello\Desktop\C#\Desktop\UPP\Broker\bin\Debug\Persons.pdb
+C:\Users\mello\Desktop\C#\Desktop\UPP\Broker\obj\Debug\Brokers.csprojResolveAssemblyReference.cache
+C:\Users\mello\Desktop\C#\Desktop\UPP\Broker\obj\Debug\Brokers.dll
+C:\Users\mello\Desktop\C#\Desktop\UPP\Broker\obj\Debug\Brokers.pdb

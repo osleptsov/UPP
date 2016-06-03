@@ -1,0 +1,14 @@
+C:\Users\mello\Desktop\C#\Desktop\UPP\Domain\bin\Debug\Domain.exe.config
+C:\Users\mello\Desktop\C#\Desktop\UPP\Domain\obj\Debug\Main.csprojResolveAssemblyReference.cache
+C:\Users\mello\Desktop\C#\Desktop\UPP\Domain\obj\Debug\Domain.Form1.resources
+C:\Users\mello\Desktop\C#\Desktop\UPP\Domain\obj\Debug\Domain.Form_Main.resources
+C:\Users\mello\Desktop\C#\Desktop\UPP\Domain\obj\Debug\Domain.Properties.Resources.resources
+C:\Users\mello\Desktop\C#\Desktop\UPP\Domain\obj\Debug\Main.csproj.GenerateResource.Cache
+C:\Users\mello\Desktop\C#\Desktop\UPP\Domain\bin\Debug\Domain.exe
+C:\Users\mello\Desktop\C#\Desktop\UPP\Domain\bin\Debug\Domain.pdb
+C:\Users\mello\Desktop\C#\Desktop\UPP\Domain\bin\Debug\Brokers.dll
+C:\Users\mello\Desktop\C#\Desktop\UPP\Domain\bin\Debug\Persons.dll
+C:\Users\mello\Desktop\C#\Desktop\UPP\Domain\bin\Debug\Brokers.pdb
+C:\Users\mello\Desktop\C#\Desktop\UPP\Domain\bin\Debug\Persons.pdb
+C:\Users\mello\Desktop\C#\Desktop\UPP\Domain\obj\Debug\Domain.exe
+C:\Users\mello\Desktop\C#\Desktop\UPP\Domain\obj\Debug\Domain.pdb
