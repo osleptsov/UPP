@@ -2,3 +2,4 @@ C:\Users\mello\Desktop\C#\Desktop\UPP\Persons\bin\Debug\Persons.dll
 C:\Users\mello\Desktop\C#\Desktop\UPP\Persons\bin\Debug\Persons.pdb
 C:\Users\mello\Desktop\C#\Desktop\UPP\Persons\obj\Debug\Persons.dll
 C:\Users\mello\Desktop\C#\Desktop\UPP\Persons\obj\Debug\Persons.pdb
+C:\Users\mello\Desktop\C#\Desktop\UPP\Persons\obj\Debug\Persons.csprojResolveAssemblyReference.cache
